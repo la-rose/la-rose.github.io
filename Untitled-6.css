@@ -17,10 +17,16 @@
 	
 }
 
+.nav ul a {
+	text-decoration: none;
+	color: #CE862F;
+}
+
 .nav ul h3 {
 	color: #CE862F;
 	font-size: 18pt;
 	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"; 
+	
 }
 
 video {
